@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gs-sinha
-- 👀 I’m interested in backend, cloud architecture and vision problems
-- 🌱 I’m currently learning golang, flutter, python 
-- 💞️ I’m looking to collaborate on any interesting problems
+- 👀 I’m interested in backend, Internet of Things and computer vision problems
+- 🌱 I’m currently learning golang, flutter, python
 - 📫 Reach me at sinha@growsimplee.com
 
 <!---
